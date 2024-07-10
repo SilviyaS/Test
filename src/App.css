@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.black-color {
+  color:grey;
+}
+
+.test {
+  height: 90vh;
+}
+
+
+
+@media (max-width:900px) {
+  .test {
+    height: 900px;
+  }  
+}
