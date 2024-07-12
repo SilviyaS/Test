@@ -12,6 +12,6 @@ code {
     monospace;
 }
 
-navbar a {
+.navbar a {
   padding: 25px;
 }
