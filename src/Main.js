@@ -29,6 +29,7 @@ const Main = ({ to }) => {
             <Link style={{ color: "black" }} to="/blog">Blog</Link>
             <Link style={{ color: "black" }} to="/resume">Resume</Link>
             <Link style={{ color: "black" }} to="/contact">Contact</Link>
+
             {/* <a class="nav-item nav-link mr-lg-4" href= {`/${to}`} >About</a>
             <a class="nav-item nav-link mr-lg-4" href= {`/${to}`}>Projects</a>
             <a class="nav-item nav-link mr-lg-4" href="http://twitter.com">Resume</a>
