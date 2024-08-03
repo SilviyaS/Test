@@ -11,7 +11,6 @@ import 'font-awesome/css/font-awesome.min.css';
 import { Link } from 'react-router-dom';
 // import Home from "./Pages/Home";
 
-
 const Main = ({ to }) => {
   return (
     <>
